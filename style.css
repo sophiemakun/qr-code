@@ -1,0 +1,38 @@
+body{
+  background:rgb(214, 226, 240);
+}
+
+div {
+  background-color: rgb(255, 255, 255);
+  font-family: outfit; 
+  color: rgb(31, 50, 81);
+  text-align: center;
+  display: block;
+  width:17%;
+  padding: 10px;
+  margin-left: 530px;
+  margin-top: 120px;
+  border-radius: 10px;
+}
+
+p {
+  background-color: rgb(255, 255, 255);
+  font-family: outfit;
+  font-size: 13px;
+  font-weight: 400;
+  color: rgb(123, 135, 157);
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  display: block;
+}
+
+img{
+  height: 210px;
+  width: 210px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
